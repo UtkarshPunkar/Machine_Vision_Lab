@@ -1,4 +1,4 @@
-# Machine Vision Lab
+# 💻 Machine Vision Lab: 
 
 This repository contains the practicals completed for the **Machine Vision Lab** course.
 
