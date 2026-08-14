@@ -2,7 +2,7 @@
 
 This repository contains the practicals completed for the **Machine Vision Lab** course.
 
-## Technologies Used
+## Technologies Used:
 - Python
 - OpenCV
 - NumPy
