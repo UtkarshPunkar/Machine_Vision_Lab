@@ -1,6 +1,6 @@
 # 💻 Machine Vision Lab: 
 
-This repository contains the practicals completed for the **Machine Vision Lab** course.
+This repository contains the practicals completed for the **Machine Vision Lab** course
 
 ## Technologies Used:
 - Python
