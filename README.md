@@ -1,6 +1,6 @@
 # 🚀 Machine Vision Lab
 
-Welcome to my **Machine Vision Lab Repository**
+Welcome to my **Machine Vision Lab Repository**.
 
 This repository contains practical implementations of **Computer Vision and Machine Vision techniques** using **Python and OpenCV**. The practicals focus on image processing, object detection, facial analysis, document vision, motion analysis, and real-world vision-based applications.
 
@@ -17,7 +17,7 @@ The objective of this lab is to gain hands-on experience with **computer vision 
 
 ---
 
-## 📚 Practicals Index
+## 📚 Practicals Index:
 
 | **Sr. No.** | **Practical Name**        | **Link**                                                                                               |
 | ----------: | ------------------------- | ------------------------------------------------------------------------------------------------------ |
